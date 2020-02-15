@@ -6,3 +6,11 @@ inspired by @joyeecheung [My Tech Diary](https://joyeecheung.github.io/diary)
 [777 Tech Diary](https://hishark.cc/diary)
 
 多看点东西吧～
+
+---
+
+2020.02.15
+
+已弃，换成gitbook来记录啦！
+
+https://xiaoqizhang.com/777-Tech-Diary/
